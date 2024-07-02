@@ -1,0 +1,10 @@
+{"question": "Paracetamol is commonly used to treat","answers": "pain<OR>fever<OR>headache<OR>flu","knowledge_category": "Pharmaceuticals"}
+{"question": "The Great Wall of China was primarily built to","answers": "protect against invasions<OR>defend from nomadic tribes<OR>defend from invasions<OR>protect from nomadic tribes","knowledge_category": "History"}
+{"question": "The heart is part of the","answers": "circulatory system<OR>cardiovascular system<OR>human circulatory system<OR>human cardiovascular system","knowledge_category": "Biology"}
+{"question": "COVID-19 is caused by","answers": "coronavirus<OR>SARS-CoV-2<OR>the novel coronavirus<OR>COVID-19 virus","knowledge_category": "Healthcare"}
+{"question": "Penicillin was discovered by","answers": "Alexander Fleming<OR>Fleming<OR>Sir Alexander Fleming","knowledge_category": "Scientists"}
+{"question": "The speed of light in vacuum is approximately","answers": "299,792 kilometers per second<OR>299,792 km/s<OR>300,000 km/s","knowledge_category": "Physics"}
+{"question": "The periodic table was created by","answers": "Dmitri Mendeleev<OR>Mendeleev<OR>Dmitri Ivanovich Mendeleev","knowledge_category": "Chemistry"}
+{"question": "The first woman to win a Nobel Prize was","answers": "Marie Curie<OR>Curie<OR>Madame Curie","knowledge_category": "History"}
+{"question": "The longest reigning British monarch is","answers": "Queen Elizabeth II<OR>Elizabeth II<OR>Queen Elizabeth the Second","knowledge_category": "History"}
+{"question": "The author of '1984' is","answers": "George Orwell<OR>Orwell<OR>Eric Arthur Blair","knowledge_category": "Literature"}
